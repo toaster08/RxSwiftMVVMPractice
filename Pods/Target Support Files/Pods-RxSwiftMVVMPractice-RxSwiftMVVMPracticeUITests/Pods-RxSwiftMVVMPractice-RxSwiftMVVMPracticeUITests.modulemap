@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftMVVMPractice_RxSwiftMVVMPracticeUITests {
+  umbrella header "Pods-RxSwiftMVVMPractice-RxSwiftMVVMPracticeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
